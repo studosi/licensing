@@ -8,6 +8,7 @@ a collection of Studoši licenses
 Here is a list of currently available licenses:
 
 ### Studoši No-Profit License
+*per person*
 
 The most basic form of license. Allows (almost) everything under certain conditions. Best used for education and demonstration purposes.
 
