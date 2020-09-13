@@ -26,4 +26,4 @@ A license for those who wish to use the work for profit. Works on an entry fee a
 
 [![License](https://img.shields.io/static/v1?label=License&message=Studo%C5%A1i%20L&color=43ada9)](licenses/studosi-lifetime-license.txt)
 
-A license for those who wish to use the work for profit. Works on a one-time fee. Per organization license. For more information contact [info@studosi.net](mailto:info@studosi.net).
+A license for those who wish to use the work for profit. Works on a one-time fee. For more information contact [info@studosi.net](mailto:info@studosi.net).
